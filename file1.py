@@ -4,3 +4,5 @@ for i in range (1,10):
                print(i*j, end= " ")
 print()
 
+# this is our first practical of our GIT Account...
+

@@ -4,4 +4,5 @@ for i in range (1,10): #loop 1
                print(i*j, end= " ")
         print()
 
-# comments are added
+# this is our first practical of our GIT Account...
+
